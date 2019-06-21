@@ -1,5 +1,6 @@
+#Calculator made by IF statements
+
 def arithmetic(a, b, operators)
-  #your code here
   for 'add' in operators do (a + b)
     end
   for 'subtract' in operators do (a - b)
